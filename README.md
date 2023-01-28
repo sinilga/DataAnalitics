@@ -5,13 +5,13 @@
 
 > [google-таблицы](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNybgEOoeR2PFdbdKMieF_JNjmiBJ55VD_OGQAJn-L7Yeo4QXdYG5VEEOApdW8wPRy-zs5p2nPLRVi/pubhtml)
 
-[!sdfsd](/img/1.1.png)
-
-[!/img/1.2.png]
-
 - когортный анализ возвращаемости клиентов;
 - расчет показателей unit-экономики;
 - определение затрат на рекламу и эффективности источников привлечения.
+
+![Возвращаемость клиентов](/img/1.1.png)
+
+![unit-экономика](/img/1.2.png)
 
 
 
