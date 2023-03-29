@@ -35,11 +35,11 @@
 
 #  Решение бизнес-задач с помощью SQL
 
-> SQL
+> [Отчет](https://github.com/sinilga/DataAnalitics/blob/main/Project-2.pdf)
 
 Анализ работы компании с точки зрения её эффективности и выработка рекомендаций по масштабированию бизнеса.
 
-![Отчет](https://github.com/sinilga/DataAnalitics/blob/main/Project-2.pdf)
+![Отчет](/img/Project-2.png)
 
 # Анализ воронки
 
