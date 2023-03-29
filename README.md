@@ -39,12 +39,12 @@
 
 Анализ работы компании с точки зрения её эффективности и выработка рекомендаций по масштабированию бизнеса.
 
-![Отчет](/img/Project-2.png)
+![Отчет](/img/project-2.png)
 
 # Анализ воронки
 
-> Jupyter Notebook
+> [Jupyter Notebook](Project_3.ipynb)
 
 Исследование поведения пользователей в мобильной игре.
 
-![Анализ воронки](https://github.com/sinilga/DataAnalitics/blob/main/Project_3.ipynb)
+![Анализ воронки](/img/project-3.png)
