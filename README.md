@@ -32,3 +32,19 @@
 
 ![Исследование продаж](/img/5.1.png)
 
+
+#  Решение бизнес-задач с помощью SQL
+
+> SQL
+
+Анализ работы компании с точки зрения её эффективности и выработка рекомендаций по масштабированию бизнеса.
+
+![Анализ воронки](https://github.com/sinilga/DataAnalitics/blob/main/Project_3.ipynb)
+
+# Анализ воронки
+
+> Jupyter Notebook
+
+Исследование поведения пользователей в мобильной игре.
+
+![Анализ воронки](https://github.com/sinilga/DataAnalitics/blob/main/Project_3.ipynb)
