@@ -39,7 +39,7 @@
 
 Анализ работы компании с точки зрения её эффективности и выработка рекомендаций по масштабированию бизнеса.
 
-![Анализ воронки](https://github.com/sinilga/DataAnalitics/blob/main/Project_3.ipynb)
+![Отчет](https://github.com/sinilga/DataAnalitics/blob/main/Project-2.pdf)
 
 # Анализ воронки
 
