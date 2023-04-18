@@ -34,7 +34,7 @@
 
 > [Power BI](https://app.powerbi.com/links/H8nxRvTWQC?ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&pbi_source=linkShare)
 
-> [Power BI](https://github.com/sinilga/DataAnalitics/blob/main/25.7%20segment.pdf)
+> [PDF](https://github.com/sinilga/DataAnalitics/blob/main/25.7%20segment.pdf)
 
 ![Исследование продаж](/img/5.1.png)
 
